@@ -1,0 +1,13 @@
+{
+  "name": "clerk-google-auth-server",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "@clerk/express": "^1.0.0",
+    "express": "^4.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.0"
+  }
+}

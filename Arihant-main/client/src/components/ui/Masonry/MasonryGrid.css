@@ -1,0 +1,9 @@
+/* CSS file for any custom overrides for the masonry layout. */
+
+.masonry-card {
+  border-radius: 0 !important;
+}
+
+.masonry-card * {
+  border-radius: 0 !important;
+}

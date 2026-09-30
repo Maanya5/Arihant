@@ -1,0 +1,59 @@
+{
+    "sections": {
+        "men": {
+            "hero": null,
+            "categories": []
+        },
+        "women": {
+            "hero": null,
+            "categories": []
+        },
+        "kids": {
+            "hero": null,
+            "schools": [
+                {
+                    "_id": "6a072a0319beff81eb429533",
+                    "name": "Jamnabah Narsee School",
+                    "area": "Kudasan",
+                    "city": "Gandhinagar"
+                },
+                {
+                    "_id": "6a072a0619beff81eb42969a",
+                    "name": "Kameshwar International School",
+                    "area": "Kudasan",
+                    "city": "Gandhinagar"
+                },
+                {
+                    "_id": "6a072a0819beff81eb42981c",
+                    "name": "Achiever School",
+                    "area": "Kudasan",
+                    "city": "Gandhinagar"
+                },
+                {
+                    "_id": "6a072a0a19beff81eb4298fc",
+                    "name": "Radiant School",
+                    "area": "Sargiasan",
+                    "city": "Gandhinagar"
+                },
+                {
+                    "_id": "6a072a0c19beff81eb429a36",
+                    "name": "Amba School",
+                    "area": "Sargiasan",
+                    "city": "Gandhinagar"
+                },
+                {
+                    "_id": "6a074f6944a888878a1f946a",
+                    "name": "Gandhinagar school",
+                    "area": "Gandhinagar ",
+                    "city": "Gandhinagar "
+                },
+                {
+                    "_id": "6a08199404a93be9a734339b",
+                    "name": "Pandit Deendayal Energy University",
+                    "area": "Raysan",
+                    "city": "Gandhinagar"
+                }
+            ]
+        }
+    }
+}
